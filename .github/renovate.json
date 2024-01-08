@@ -5,6 +5,7 @@
   ],
   "ignoreDeps": [
     "coverage",
+    "rtoml",
     "pytest-mock"
   ],
   "ignorePaths": ["databases/docker-compose.yml", "examples/**"],
